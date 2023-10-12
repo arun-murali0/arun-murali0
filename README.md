@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **next.js ,solidity**
 
-- 👨‍💻 All of my projects are available at [https://arun1-dev.netlify.app/](https://arun1-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://arun1-dev.netlify.app/">Portfolio</a>
 
 - 💬 Ask me about **React, MongoDB, Node.js**
 
