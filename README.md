@@ -13,9 +13,10 @@
 
 - ⚡ Fun fact **it's all about 0 and 1**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blogs Site
+
+--blog-site:<a href="https://blog-site-002.netlify.app />
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
