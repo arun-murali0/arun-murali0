@@ -15,7 +15,7 @@
 
 ### Blogs Site
 
---blog-site:<a href="https://blog-site-002.netlify.app />
+<a href="https://blog-site-002.netlify.app/">blog</a>
 
 
 <h3 align="left">Connect with me:</h3>
