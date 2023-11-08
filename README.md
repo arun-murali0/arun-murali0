@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-murali0&label=Profile%20views&color=0e75b6&style=flat" alt="arun-murali0" /> </p>
 
-- 🌱 I’m currently learning **next.js ,solidity**
+- 🌱 I’m currently learning **next.js ,GraphQL ,system-Designs,Solidity **
 
 - 👨‍💻 All of my projects are available at <a href="https://arun1-dev.netlify.app/">Portfolio</a>
 
