@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **next.js ,GraphQL ,system-Designs,Solidity **
 
-- 👨‍💻 All of my projects are available at <a href="https://arun1-dev.netlify.app/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://arun1-dev.netlify.app"/>Portfolio</a>
 
 - 💬 Ask me about **React, MongoDB, Node.js**
 
