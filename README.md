@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-murali0&label=Profile%20views&color=0e75b6&style=flat" alt="arun-murali0" /> </p>
 
-- 🌱 I’m currently learning **next.js ,GraphQL ,system-Designs,Solidity **
+- 🌱 I’m currently learning **--Rust,Web-3,solidity ---**
 
 - 👨‍💻 All of my projects are available at <a href="https://arun1-dev.netlify.app"/>Portfolio</a>
 
