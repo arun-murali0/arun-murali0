@@ -128,6 +128,11 @@
   </a>
 </p>
 
+## 🕒 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,5&height=100&section=footer" width="100%"/>
 </div>
