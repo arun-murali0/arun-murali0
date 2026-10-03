@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,5&height=220&section=header&text=Arun murali&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Engineer&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,5&height=220&section=header&text=Arun&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Engineer&descAlignY=58" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=2000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+%2B+Backend+%2B+Cloud+%3D+🚀;Building+products+people+love;Somewhere between ideas and implementation." alt="Dashboard Header"/>
 </div>
 
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=software%20Engineer%3BSomewhere%20between%20ideas%20and%20implementation.%3BBuilding%20ts-rust" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full%20stack%20developer%3B%20Somewhere%20between%20ideas%20and%20implementation.%3BBuilding%20ts-rust" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,8 +24,8 @@
 
 | Layer | Technologies |
 |-------|-------------|
-| 🖥️ Frontend | react, node js, Rust, Typescript, javascript, next js, tailwind |
-| ⚙️ Backend & Tools | Docker, GIT, linux, grafana, open-telemetry |
+| 🖥️ Frontend | react, ts, js, node js, next js |
+| ⚙️ Backend & Tools | linux, docker, rust, express js, redis, postgres, mongodb, grafana |
 
 ## 📊 Activity Dashboard
 
@@ -66,8 +66,8 @@
   <a href="https://github.com/arun-murali0/ts-rust">
     <img src="https://github-readmeapp.vercel.app/api/pin/?username=arun-murali0&repo=ts-rust&theme=github_dark&hide_border=true"/>
   </a>
-  <a href="https://github.com/arun-murali0/tsr.git">
-    <img src="https://github-readmeapp.vercel.app/api/pin/?username=arun-murali0&repo=TSR&theme=github_dark&hide_border=true"/>
+  <a href="https://github.com/arun-murali0/runtimex.git">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=arun-murali0&repo=runtimex&theme=github_dark&hide_border=true"/>
   </a>
 </div>
 
