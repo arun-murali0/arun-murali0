@@ -29,7 +29,7 @@
       <p>A TypeScript type checker written in Rust on top of Oxc.</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/arun-murali0/veyre">tsr</a></h3>
+      <h3><a href="https://github.com/arun-murali0/veyre">veyre</a></h3>
       <p>A native TypeScript runtime that compiles TypeScript to native executables.</p>
     </td>
   </tr>
